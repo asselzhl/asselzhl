@@ -5,7 +5,7 @@ Frontend Developer 👩🏻‍💻
 -----------------------------------------------
 
 * 🌍 Based in Almaty, Kazakhstan 
-* 📚 English Language & Literature Enthusiast 
+* 📚 English Language & Literature 
 * ✉️ Contact me at [asselzhly@gmail.com](mailto:asselzhly@gmail.com)   
 * ⚛️ Exploring the Magic of React 
 
