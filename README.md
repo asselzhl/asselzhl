@@ -4,7 +4,7 @@ Hi, my name is Assel 👋
 Frontend Developer 👩🏻‍💻
 -----------------------------------------------
 
-* 🌍 Based in Astana, Kazakhstan 
+* 🌍 Based in Almaty, Kazakhstan 
 * ✉️ Contact me at [asselzhly@gmail.com](mailto:asselzhly@gmail.com)   
 * ⚛️ Exploring the Magic of React 
 
