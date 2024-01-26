@@ -23,7 +23,7 @@ Frontend Developer 👩🏻‍💻
 
 <b>Codewars Badge</b>
 
-<img src="https://www.codewars.com/users/asselzhl/badges/small" alt="asselzhl's Codewars badge" />
+<img src="https://www.codewars.com/users/asselzhl/badges/large" alt="asselzhl's Codewars badge" />
 
 <b>My GitHub Stats</b>
 
